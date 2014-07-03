@@ -3,4 +3,5 @@ git is a free software.
 git change 1.
 git change 2.
 git test 1.
-new branch dev
+new branch dev.
+new branch dfeature.
